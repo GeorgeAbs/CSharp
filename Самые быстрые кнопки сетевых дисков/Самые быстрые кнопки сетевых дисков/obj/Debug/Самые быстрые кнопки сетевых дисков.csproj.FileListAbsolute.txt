@@ -1,0 +1,46 @@
+C:\Users\gkyudin\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\bin\Debug\Самые быстрые кнопки сетевых дисков.exe.config
+C:\Users\gkyudin\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\bin\Debug\Самые быстрые кнопки сетевых дисков.exe
+C:\Users\gkyudin\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\bin\Debug\Самые быстрые кнопки сетевых дисков.pdb
+C:\Users\gkyudin\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые быстрые кнопки сетевых дисков.csprojAssemblyReference.cache
+C:\Users\gkyudin\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые_быстрые_кнопки_сетевых_дисков.Form1.resources
+C:\Users\gkyudin\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые_быстрые_кнопки_сетевых_дисков.Properties.Resources.resources
+C:\Users\gkyudin\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые быстрые кнопки сетевых дисков.csproj.GenerateResource.cache
+C:\Users\gkyudin\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые быстрые кнопки сетевых дисков.csproj.CoreCompileInputs.cache
+C:\Users\gkyudin\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые быстрые кнопки сетевых дисков.exe
+C:\Users\gkyudin\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые быстрые кнопки сетевых дисков.pdb
+C:\Users\gkyudin\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые_быстрые_кнопки_сетевых_дисков.Добавление_кнопки.resources
+C:\Users\gkyudin\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые_быстрые_кнопки_сетевых_дисков.Настройки.resources
+C:\Users\gkyudin\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые_быстрые_кнопки_сетевых_дисков.Управление_кнопками.resources
+C:\Users\Master of the World\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\bin\Debug\Самые быстрые кнопки сетевых дисков.exe.config
+C:\Users\Master of the World\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\bin\Debug\Самые быстрые кнопки сетевых дисков.exe
+C:\Users\Master of the World\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\bin\Debug\Самые быстрые кнопки сетевых дисков.pdb
+C:\Users\Master of the World\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые быстрые кнопки сетевых дисков.csprojAssemblyReference.cache
+C:\Users\Master of the World\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые_быстрые_кнопки_сетевых_дисков.Form1.resources
+C:\Users\Master of the World\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые_быстрые_кнопки_сетевых_дисков.Properties.Resources.resources
+C:\Users\Master of the World\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые_быстрые_кнопки_сетевых_дисков.Добавление_кнопки.resources
+C:\Users\Master of the World\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые_быстрые_кнопки_сетевых_дисков.Настройки.resources
+C:\Users\Master of the World\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые_быстрые_кнопки_сетевых_дисков.Управление_кнопками.resources
+C:\Users\Master of the World\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые быстрые кнопки сетевых дисков.csproj.GenerateResource.cache
+C:\Users\Master of the World\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые быстрые кнопки сетевых дисков.csproj.CoreCompileInputs.cache
+C:\Users\Master of the World\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые быстрые кнопки сетевых дисков.exe
+C:\Users\Master of the World\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые быстрые кнопки сетевых дисков.pdb
+C:\Users\Master of the World\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые_быстрые_кнопки_сетевых_дисков.About.resources
+C:\Users\Master of the World\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Master of the World\source\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые быстрые кнопки сетевых дисков.csproj.ResolveComReference.cache
+C:\Users\gkyudin\Desktop\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\bin\Debug\Самые быстрые кнопки сетевых дисков.exe.config
+C:\Users\gkyudin\Desktop\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\bin\Debug\Самые быстрые кнопки сетевых дисков.exe
+C:\Users\gkyudin\Desktop\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\bin\Debug\Самые быстрые кнопки сетевых дисков.pdb
+C:\Users\gkyudin\Desktop\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые быстрые кнопки сетевых дисков.csproj.AssemblyReference.cache
+C:\Users\gkyudin\Desktop\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые быстрые кнопки сетевых дисков.csproj.SuggestedBindingRedirects.cache
+C:\Users\gkyudin\Desktop\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\gkyudin\Desktop\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые быстрые кнопки сетевых дисков.csproj.ResolveComReference.cache
+C:\Users\gkyudin\Desktop\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые_быстрые_кнопки_сетевых_дисков.About.resources
+C:\Users\gkyudin\Desktop\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые_быстрые_кнопки_сетевых_дисков.Form1.resources
+C:\Users\gkyudin\Desktop\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые_быстрые_кнопки_сетевых_дисков.Properties.Resources.resources
+C:\Users\gkyudin\Desktop\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые_быстрые_кнопки_сетевых_дисков.Добавление_кнопки.resources
+C:\Users\gkyudin\Desktop\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые_быстрые_кнопки_сетевых_дисков.Настройки.resources
+C:\Users\gkyudin\Desktop\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые_быстрые_кнопки_сетевых_дисков.Управление_кнопками.resources
+C:\Users\gkyudin\Desktop\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые быстрые кнопки сетевых дисков.csproj.GenerateResource.cache
+C:\Users\gkyudin\Desktop\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые быстрые кнопки сетевых дисков.csproj.CoreCompileInputs.cache
+C:\Users\gkyudin\Desktop\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые быстрые кнопки сетевых дисков.exe
+C:\Users\gkyudin\Desktop\repos\Самые быстрые кнопки сетевых дисков\Самые быстрые кнопки сетевых дисков\obj\Debug\Самые быстрые кнопки сетевых дисков.pdb
